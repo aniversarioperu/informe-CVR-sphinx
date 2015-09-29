@@ -188,7 +188,8 @@ se encuentran: en el centro de nuestro recuerdo.
 Presentamos este informe en homenaje de todos ellos y de todas ellas. Lo presentamos,
 además, como un mandato de los ausentes y de los olvidados a toda la Nación. La historia que
 aquí se cuenta habla de nosotros, de lo que fuimos y de lo que debemos dejar de ser. Esta
-historia habla de nuestras tareas. Esta historia comienza hoy.
+historia habla de nuestras tareas. Esta historia _`comienza` hoy.
+
 
 | **Salomón Lerner Febres**
 | **Presidente**
