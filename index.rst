@@ -9,10 +9,9 @@ Copia del Informe Final CVR
 Contenido:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    tomo_i/tomo_i
-   tomo_i/introduccion
 
 
 Índices y tablas
