@@ -109,20 +109,7 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-import os
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-if not on_rtd:
-    html_theme = 'my_theme'
-else:
-    html_theme = 'my_theme'
-    html_context = {
-        'css_files': [
-            '_static/my_style.css'
-        ],
-        'script_files': [
-            '_static/highlighter.js'
-        ],
-    }
+html_theme = 'my_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
