@@ -111,7 +111,7 @@ todo_include_todos = False
 # a list of builtin themes.
 import os
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-if on_rtd:
+if not on_rtd:
     html_theme = 'my_theme'
 else:
     html_theme = 'my_theme'
